@@ -1,0 +1,6 @@
+https://techblog.ingeniance.fr/quel-outil-de-ci-cd-il-te-faut/
+
+
+chaine : https://www.youtube.com/watch?v=mpfBQQqT57c&list=PLORtqNVm6r7BVC3ldqwLK4Nl_FgjwpQpU&index=5
+
+docker et microservice: https://mbaron.developpez.com/tutoriels/microservices/developpement-application-docker/
